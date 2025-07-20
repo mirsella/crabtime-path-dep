@@ -17,7 +17,7 @@ version = "0.1.0"
 [[package]]
 name = "crabtime"
 version = "1.1.3"
-source = "git+https://github.com/Nekomaru-PKU/crabtime#1c4265f5e81205ecb76b9f99559a19a996ddb679"
+source = "git+https://github.com/wdanilo/crabtime#2ed856f5f8b85a1e81598d64a36305a1d3f17d01"
 dependencies = [
  "crabtime-internal",
 ]
@@ -25,7 +25,7 @@ dependencies = [
 [[package]]
 name = "crabtime-internal"
 version = "1.1.3"
-source = "git+https://github.com/Nekomaru-PKU/crabtime#1c4265f5e81205ecb76b9f99559a19a996ddb679"
+source = "git+https://github.com/wdanilo/crabtime#2ed856f5f8b85a1e81598d64a36305a1d3f17d01"
 dependencies = [
  "proc-macro2",
  "quote",
