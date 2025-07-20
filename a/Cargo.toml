@@ -4,7 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+b = { workspace = true }
 crabtime = { workspace = true }
 
 [build-dependencies]
-b = { path = "../b" }
+b = { workspace = true }
