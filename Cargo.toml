@@ -1,0 +1,6 @@
+[workspace]
+members = ["a", "b"]
+resolver = "3"
+
+[workspace.dependencies]
+crabtime = { git = "https://github.com/Nekomaru-PKU/crabtime" }
